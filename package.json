@@ -1,0 +1,22 @@
+{
+  "name": "interview-katas",
+  "version": "1.0.0",
+  "description": "Email templates",
+  "main": "scam.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicchunglow/scam-question.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicchunglow/scam-question/issues"
+  },
+  "homepage": "https://github.com/nicchunglow/scam-question#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
